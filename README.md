@@ -1,4 +1,4 @@
-# Vanessa Azzopardi
+## Background
 
 A data professional with experience in data processing, automation, Power BI, Python, SQL, data quality and analytics.
 
