@@ -12,6 +12,7 @@ A data professional with experience in data processing, automation, Power BI, Py
 
 🤖 LLM-Based Free Text Classification – AI-assisted free text cleaning, standardisation and code assignment
 
+
 ## Skills
 
 Power BI | SQL | Python | R | ETL | Data Quality | Data Warehousing | Machine Learning
