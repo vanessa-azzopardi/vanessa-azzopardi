@@ -6,7 +6,7 @@ A data professional with experience in data processing, automation, Power BI, Py
 
 📊 Data Quality Monitoring Dashboard – Power BI dashboard for tourism data quality monitoring and KPIs
 
-🌦 Weather Data Pipeline – Python ETL pipeline using publicly-available API data
+🌦 Weather Data ETL Pipeline – Python ETL pipeline using publicly-available API data
 
 🧠 Parkinson's Disease Classification System – A machine learning approach to classify DAT SPECT brain images and detect the presence of Parkinson's Disease
 
