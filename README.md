@@ -4,7 +4,7 @@ A data professional with experience in data processing, automation, Power BI, Py
 
 ## Featured Projects
 
-📊 Tourism Analytics Dashboard – Power BI dashboard for tourism data collection monitoring and KPIs
+📊 Data Quality Monitoring Dashboard – Power BI dashboard for tourism data quality monitoring and KPIs
 
 🌦 Weather Data Pipeline – Python ETL pipeline using publicly-available API data
 
